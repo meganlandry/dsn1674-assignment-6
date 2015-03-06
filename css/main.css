@@ -1,3 +1,33 @@
 html {
 	box-sizing: border-box;
 }
+
+.robot {
+	position: relative;
+	width: 320px;
+	margin: 0 auto;
+}
+
+.robot-body {
+	width: 320px;
+}
+
+.robot-brain {
+	width: 46px;
+	position: absolute;
+	right: 50%;
+}
+
+.robot-head-right {
+	width: 125px;
+	position: absolute;
+	top: 3em;
+	right: 50%;
+}
+
+ .robot-head-left {
+	width: 125px;
+	position: absolute;
+	top: 3em;
+	right: 50%;
+}
